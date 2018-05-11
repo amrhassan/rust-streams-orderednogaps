@@ -2,6 +2,11 @@
 name = "streams-orderednogaps"
 version = "0.1.0"
 authors = ["Amr Hassan <amr.hassan@gmail.com>"]
+description = "CLI client for Nakadi"
+license = "MIT"
+
+[package.metadata.release]
+upload-doc = true
 
 [dependencies]
 "futures" = "0.1.2"
