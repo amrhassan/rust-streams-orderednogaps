@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["ordered_no_gaps","Given a function to retrieve the key of each value, the zero key value and an underlying stream."]],"struct":[["OrderedNoGaps",""]],"trait":[["Successor",""]]});

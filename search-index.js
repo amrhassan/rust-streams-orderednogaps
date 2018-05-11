@@ -1,0 +1,3 @@
+var searchIndex = {};
+searchIndex["streams_orderednogaps"] = {"doc":"","items":[[3,"OrderedNoGaps","streams_orderednogaps","",null,null],[5,"ordered_no_gaps","","Given a function to retrieve the key of each value, the zero key value and an underlying stream.",null,{"inputs":[{"name":"s"},{"name":"k"},{"name":"f"}],"output":{"name":"orderednogaps"}}],[8,"Successor","","",null,null],[10,"next","","",0,{"inputs":[{"name":"self"}],"output":{"name":"self"}}],[11,"poll","","",1,{"inputs":[{"name":"self"}],"output":{"generics":["async"],"name":"result"}}]],"paths":[[8,"Successor"],[3,"OrderedNoGaps"]]};
+initSearch(searchIndex);
