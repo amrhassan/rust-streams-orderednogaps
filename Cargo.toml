@@ -1,6 +1,6 @@
 [package]
 name = "streams-orderednogaps"
-version = "0.1.1-alpha.0"
+version = "0.1.1"
 authors = ["Amr Hassan <amr.hassan@gmail.com>"]
 description = "A stream combinator for ordering streams by a key ensuring no gaps in the emitted values"
 license = "MIT"
